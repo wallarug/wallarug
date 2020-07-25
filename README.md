@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ![Wallarug's github stats](https://github-readme-stats.vercel.app/api?username=wallarug&count_private=true&show_icons=true&theme=dark&hide=issues,prs)
 
-### Current Areas of Interest
+### Current Areas of Interest & Learning
 * Computer Vision - OpenCV 
 * Artifical Inteligence - TensorFlow
 * Autonomous Drones - ArduPilot & PX4
