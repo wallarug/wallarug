@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome, This is my GitHub homepage 👋
+
 
 <!--
 **wallarug/wallarug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Wallarug's github stats](https://github-readme-stats.vercel.app/api?username=wallarug&count_private=true&show_icons=true&theme=dark&hide=issues,prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallarug&hide=Processing,css&theme=dark)
+
+Statistics powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
