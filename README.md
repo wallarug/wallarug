@@ -33,6 +33,12 @@ Here are some ideas to get you started:
 I write lots of blog posts on [Hackster.io](https://www.hackster.io/wallarug/projects).  Be sure to check them out.
 
 
+### Past, Current and Future Projects
+
+* [Robo HAT MM1](http://robohatmm1-docs.readthedocs.io/) on [Crowd Supply](https://www.crowdsupply.com/robotics-masters/robo-hat-mm1) by [Robotics Masters](https://roboticsmasters.co)
+* _Contributer_: [Donkey Car](http://docs.donkeycar.com/) by [Donkey Car Community](https://www.donkeycar.com/)
+* _First Project_: [CMD Robot](https://github.com/ingramator/cmd-robot) by [@ingramator](https://github.com/ingramator/) and [@wallarug](https://github.com/wallarug)
+
 Statistics powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
