@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 * Artifical Inteligence - TensorFlow
 * Autonomous Drones - ArduPilot & PX4
 
+### Blogs
+
+I write lots of blog posts on [Hackster.io](https://www.hackster.io/wallarug/projects).  Be sure to check them out.
+
 
 Statistics powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
