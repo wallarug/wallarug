@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 I write lots of blog posts on [Hackster.io](https://www.hackster.io/wallarug/projects).  Be sure to check them out.
 
+Latest:  [GPU vs CPU - TensorFlow Challenge](https://www.hackster.io/wallarug/gpu-vs-cpu-tensorflow-challenge-331237)
+
 
 ### Past, Current and Future Projects
 
