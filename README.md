@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### Current Areas of Interest & Learning
 * Computer Vision - OpenCV 
 * Artifical Inteligence - TensorFlow
-* Autonomous Drones - ArduPilot & PX4
+* Autonomous vehicles - ArduPilot & PX4 (Drones), Donkey Car (Cars)
 
 ### Blogs
 
