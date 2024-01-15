@@ -24,13 +24,14 @@ Here are some ideas to get you started:
 ![Wallarug's github stats](https://github-readme-stats.vercel.app/api?username=wallarug&count_private=true&show_icons=true&theme=dark&hide=issues,prs)
 
 ### Current Areas of Interest & Learning
+* 🔭 Random - DMX, networking 
 * Computer Vision - OpenCV 
-* Artifical Inteligence - TensorFlow
+* ⚡ Artifical Inteligence - PyTorch, TensorFlow
 * Autonomous vehicles - ArduPilot & PX4 (Drones), Donkey Car (Cars)
 
 ### Blogs
 
-I write lots of blog posts on [Hackster.io](https://www.hackster.io/wallarug/projects).  Be sure to check them out.
+I write lots of blog posts on [Hackster.io](https://www.hackster.io/wallarug/projects).  ✨ Be sure to check them out. ✨
 
 Latest:  [GPU vs CPU - TensorFlow Challenge](https://www.hackster.io/wallarug/gpu-vs-cpu-tensorflow-challenge-331237)
 
