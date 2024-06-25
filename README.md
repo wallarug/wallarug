@@ -19,11 +19,14 @@ Here are some ideas to get you started:
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallarug&hide=Processing,css&theme=dark" />
 	<img align="left" src="https://github-readme-stats.vercel.app/api?username=wallarug&count_private=true&show_icons=true&theme=dark&hide=issues,prs" />
 </p>
-![Wallarug's github stats](https://github-readme-stats.vercel.app/api?username=wallarug&count_private=true&show_icons=true&theme=dark&hide=issues,prs)
-
 -->
 
+## All Time
 ![Wallarug's github stats](https://github-readme-stats.vercel.app/api?username=wallarug&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+
+## This Year...
+![Wallarug's github stats](https://github-readme-stats.vercel.app/api?username=wallarug&count_private=true&show_icons=true&theme=dark)
+
 
 ### Current Areas of Interest & Learning
 * 🔭 Random - DMX, networking 
