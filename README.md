@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 	<img align="left" src="https://github-readme-stats.vercel.app/api?username=wallarug&count_private=true&show_icons=true&theme=dark&hide=issues,prs" />
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallarug&hide=Processing,css&theme=dark" />
 </p>
-![Wallarug's github stats](https://github-readme-stats.vercel.app/api?username=wallarug&count_private=true&show_icons=true&theme=dark&hide=issues,prs&include_all_commits=true)
+![Wallarug's github stats](https://github-readme-stats.vercel.app/api?username=wallarug&count_private=true&show_icons=true&theme=dark&hide=issues,prs&show=include_all_commits)
 -->
 
 ![Wallarug's github stats](https://github-readme-stats.vercel.app/api?username=wallarug&count_private=true&show_icons=true&theme=dark)
