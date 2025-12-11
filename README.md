@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 
 <!--
 <p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallarug&hide=Processing,css&theme=dark" />
+	<img align="left" src="github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wallarug&hide=Processing,css&theme=dark" />
 	<img align="left" src="https://github-readme-stats.vercel.app/api?username=wallarug&count_private=true&show_icons=true&theme=dark&hide=issues,prs" />
 </p>
 -->
 
 ## All Time
-![Wallarug's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallarug&show_icons=true&theme=radical&count_private=true)/>
+![Wallarug's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=wallarug&show_icons=true&theme=radical&count_private=true)/>
 
 ## This Year...
 ![Wallarug's github stats](https://github-readme-stats.vercel.app/api?username=wallarug&count_private=true&show_icons=true&theme=dark)
