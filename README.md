@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 	<img align="left" src="https://github-readme-stats.vercel.app/api?username=wallarug&count_private=true&show_icons=true&theme=dark&hide=issues,prs" />
 </p>
 -->
+![](https://komarev.com/ghpvc/?username=wallarug&color=gray)
 
 ## All Time
 ![Wallarug's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=wallarug&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
