@@ -24,7 +24,23 @@ Here are some ideas to get you started:
 ## All Time
 ![Wallarug's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=wallarug&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
 
-![Wallarug's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=wallarug&show_icons=true&theme=radical)
+<br />
+
+<div style="display: flex; gap: 16px;" align="center">
+  <!-- <img style="height: auto; width: 50%;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wallarug&hide=issues&show_icons=true&theme=cobalt"
+    ![Wallarug's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=wallarug&show_icons=true&theme=radical)/>
+  <br><br>
+  <img style="height: auto; width: 22%;" src="https://github-readme-stats-eight-theta.vercel.vercel.app/api/top-langs/?username=wallarug&show_icons=true&theme=cobalt&layout=donut-vertical" />   -->
+
+  <!-- <img style="height: auto;" src="https://streak-stats.demolab.com/?user=wallarug&theme=dark" />   -->
+
+  <img style="height: auto;" src="https://raw.githubusercontent.com/wallarug/github-stats/master/generated/overview.svg#gh-dark-mode-only" />  
+  <img style="height: auto;" src="https://raw.githubusercontent.com/wallarug/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
+
+  <img style="height: auto;" src="https://raw.githubusercontent.com/wallarug/github-stats/master/generated/languages.svg#gh-dark-mode-only" />  
+  <img style="height: auto;" src="https://raw.githubusercontent.com/wallarug/github-stats/master/generated/languages.svg#gh-light-mode-only" /> 
+
+</div>
 
 ## This Year...
 ![Wallarug's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=wallarug&count_private=true&show_icons=true&theme=dark)
