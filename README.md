@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 ## All Time
 ![Wallarug's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=wallarug&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
-![Wallarug's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallarug&show_icons=true&theme=radical)
+
+![Wallarug's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=wallarug&show_icons=true&theme=radical)
 
 ## This Year...
 ![Wallarug's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=wallarug&count_private=true&show_icons=true&theme=dark)
