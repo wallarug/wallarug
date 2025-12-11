@@ -33,8 +33,6 @@ Here are some ideas to get you started:
   <br><br>
   <img style="height: auto; width: 22%;" src="https://github-readme-stats-eight-theta.vercel.vercel.app/api/top-langs/?username=wallarug&show_icons=true&theme=cobalt&layout=donut-vertical" />   -->
 
-  <!-- <img style="height: auto;" src="https://streak-stats.demolab.com/?user=wallarug&theme=dark" />   -->
-
   <img style="height: auto;" src="https://raw.githubusercontent.com/wallarug/github-stats/master/generated/overview.svg#gh-dark-mode-only" />  
   <img style="height: auto;" src="https://raw.githubusercontent.com/wallarug/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
 
