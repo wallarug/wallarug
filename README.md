@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 ![Wallarug's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=wallarug&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
 
 <br />
-<!--
+
   <img style="height: auto;" src="https://raw.githubusercontent.com/wallarug/github-stats/master/generated/overview.svg#gh-dark-mode-only" />  
   <img style="height: auto;" src="https://raw.githubusercontent.com/wallarug/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
 
   <img style="height: auto;" src="https://raw.githubusercontent.com/wallarug/github-stats/master/generated/languages.svg#gh-dark-mode-only" />  
-  <img style="height: auto;" src="https://raw.githubusercontent.com/wallarug/github-stats/master/generated/languages.svg#gh-light-mode-only" /> -->
+  <img style="height: auto;" src="https://raw.githubusercontent.com/wallarug/github-stats/master/generated/languages.svg#gh-light-mode-only" />
 
 </div>
 
